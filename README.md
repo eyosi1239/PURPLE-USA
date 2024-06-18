@@ -1,0 +1,2 @@
+# purple usa
+ This program draws a map to show presidential election results with subregions either colored red/blue to show whether democrats/republicans won that subregion or colored a shade of purple based on the proportion of deomocrat/republican/other votes. The map can be chosen to display the USA subdivided by states or a state subdivided by counties. The user will enter data to choose USA or a state, the election year, and whether a red/blue or purple map will be drawn.
